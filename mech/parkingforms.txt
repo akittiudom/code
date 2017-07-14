@@ -1,0 +1,22 @@
+forms <post https://palazzo.parkingattendant.com/ application/x-www-form-urlencoded
+  <SubmitButtonControl(<None>=) (readonly)>>
+forms <GET https://palazzo.parkingattendant.com/ application/x-www-form-urlencoded
+  <HiddenControl(location=) (readonly)>
+  <HiddenControl(attendant=) (readonly)>
+  <TextControl(media=)>
+  <TextControl(tenant=)>
+  <TextControl(vehicle=)>
+  <TextControl(name=)>
+  <TextControl(email=)>
+  <TextControl(tel=)>
+  <SubmitButtonControl(<None>=) (readonly)>>
+forms <post https://palazzo.parkingattendant.com/ application/x-www-form-urlencoded
+  <HiddenControl(location=) (readonly)>
+  <HiddenControl(container=) (readonly)>
+  <TextControl(to=)>
+  <SubmitButtonControl(<None>=) (readonly)>>
+forms <post https://palazzo.parkingattendant.com/ application/x-www-form-urlencoded
+  <HiddenControl(location=) (readonly)>
+  <HiddenControl(container=) (readonly)>
+  <TextControl(to=)>
+  <SubmitButtonControl(<None>=) (readonly)>>
